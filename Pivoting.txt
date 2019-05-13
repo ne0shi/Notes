@@ -89,7 +89,8 @@ For nmap use -Pn -sT or use tcp scanner in msf
 Most platforms
 
 Get meterpreter session on one of the dual homed machines
-Auto route to 10.1.1.0
+Auto route to 10.1.1.0 (multi/manage/autoroute)
+Start socks proxy (auxiliary/server/socks4a)
 
 
 ----SSH----
